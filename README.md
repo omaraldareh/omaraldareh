@@ -46,7 +46,8 @@ Currently exploring React, Node.js, and modern web architectures.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omaraldareh&show_icons=true&theme=radial&hide_border=true" alt="Omar's GitHub Stats" />
-  <br/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaraldareh&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
 </p>
 
